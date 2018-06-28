@@ -1,0 +1,48 @@
+Choice		Action
+------		------
+A		Add Project
+D		Display Project
+Q		Quit
+?		Display Help
+
+What action would you like to perform?
+Choice		Action
+------		------
+A		Add Project
+D		Display Project
+Q		Quit
+?		Display Help
+
+What action would you like to perform?
+Please enter the Project information:
+Enter its title:
+Enter its project number:
+Enter its location:
+Enter its manager's first name:
+Enter its manager's last name:
+Enter its manager's department number:
+What action would you like to perform?
+
+Project Title:		Runners Project
+Project Number:		21
+Project Location:	Phoenix
+Project Manager:	Sam Smith, Dept Num:15
+
+What action would you like to perform?
+Please enter the Project information:
+Enter its title:
+Enter its project number:
+Enter its location:
+Enter its manager's first name:
+Enter its manager's last name:
+Enter its manager's department number:
+What action would you like to perform?
+
+Project Title:		Dance Project
+Project Number:		23
+Project Location:	Tucson
+Project Manager:	Mary Walker, Dept Num:11
+
+What action would you like to perform?
+Unknown action
+What action would you like to perform?

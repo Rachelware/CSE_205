@@ -1,0 +1,4 @@
+The minimum integer is -3
+The largest integer that is divisible by 2 is 4
+The count of even integers in the sequence is 2
+The sum of positive integers is 4

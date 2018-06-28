@@ -1,0 +1,38 @@
+Choice		Action
+------		------
+A		Add Project
+D		Display Project
+Q		Quit
+?		Display Help
+
+What action would you like to perform?
+Please enter the Project information:
+Enter its title:
+Enter its project number:
+Enter its location:
+Enter its manager's first name:
+Enter its manager's last name:
+Enter its manager's department number:
+What action would you like to perform?
+
+Project Title:		Grand Road Improvement Project
+Project Number:		3
+Project Location:	Tucson
+Project Manager:	Karl Thompson, Dept Num:9
+
+What action would you like to perform?
+Please enter the Project information:
+Enter its title:
+Enter its project number:
+Enter its location:
+Enter its manager's first name:
+Enter its manager's last name:
+Enter its manager's department number:
+What action would you like to perform?
+
+Project Title:		Helping Children Project
+Project Number:		11
+Project Location:	Phoenix
+Project Manager:	Kate Middleton, Dept Num:15
+
+What action would you like to perform?
