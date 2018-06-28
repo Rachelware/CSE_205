@@ -1,0 +1,150 @@
+Choice		Action
+------		------
+A		Add Project
+C		Create ProjectManagement
+D		Search by Project Number
+E		Search by Manager
+L		List Projects
+O		Sort by Project Number
+P		Sort by Manager
+Q		Quit
+R		Remove by Project Number
+T		Close ProjectManagement
+U		Write Text to File
+V		Read Text from File
+W		Serialize ProjectManagement to File
+X		Deserialize ProjectManagement from File
+?		Display Help
+
+Please enter a maximum number of projects
+What action would you like to perform?
+Please enter a project to add:
+Please enter its title to add:
+Please enter its project number to add:
+Please enter its project location to add:
+Please enter its manager's first name to add:
+Please enter its manager's last name to add:
+Please enter its manager's department number to add:
+project added
+What action would you like to perform?
+Please enter a project to add:
+Please enter its title to add:
+Please enter its project number to add:
+Please enter its project location to add:
+Please enter its manager's first name to add:
+Please enter its manager's last name to add:
+Please enter its manager's department number to add:
+project added
+What action would you like to perform?
+Please enter a project to add:
+Please enter its title to add:
+Please enter its project number to add:
+Please enter its project location to add:
+Please enter its manager's first name to add:
+Please enter its manager's last name to add:
+Please enter its manager's department number to add:
+project added
+What action would you like to perform?
+
+
+Project Title:		Commercial Construction Project
+Project Number:		15
+Project Location:	Flagstaff
+Project Manager:	Nancy O'Hare, Dept Num:5
+
+
+Project Title:		Helping Children Project
+Project Number:		11
+Project Location:	Phoenix
+Project Manager:	Mary Lou Fulton, Dept Num:201
+
+
+Project Title:		Mountain Project
+Project Number:		16
+Project Location:	Flagstaff
+Project Manager:	Martin Van Buren, Dept Num:25
+
+
+What action would you like to perform?
+Please enter a new maximum number of projects:
+What action would you like to perform?
+
+no project
+
+What action would you like to perform?
+Please enter a project to add:
+Please enter its title to add:
+Please enter its project number to add:
+Please enter its project location to add:
+Please enter its manager's first name to add:
+Please enter its manager's last name to add:
+Please enter its manager's department number to add:
+project added
+What action would you like to perform?
+Please enter a project to add:
+Please enter its title to add:
+Please enter its project number to add:
+Please enter its project location to add:
+Please enter its manager's first name to add:
+Please enter its manager's last name to add:
+Please enter its manager's department number to add:
+project added
+What action would you like to perform?
+Please enter a project to add:
+Please enter its title to add:
+Please enter its project number to add:
+Please enter its project location to add:
+Please enter its manager's first name to add:
+Please enter its manager's last name to add:
+Please enter its manager's department number to add:
+project not added
+What action would you like to perform?
+
+
+Project Title:		Dance Project
+Project Number:		23
+Project Location:	Tucson
+Project Manager:	Mary Walker, Dept Num:11
+
+
+Project Title:		Runners Project
+Project Number:		21
+Project Location:	Phoenix
+Project Manager:	Sam Smith, Dept Num:14
+
+
+What action would you like to perform?
+sorted by managers
+What action would you like to perform?
+
+
+Project Title:		Dance Project
+Project Number:		23
+Project Location:	Tucson
+Project Manager:	Mary Walker, Dept Num:11
+
+
+Project Title:		Runners Project
+Project Number:		21
+Project Location:	Phoenix
+Project Manager:	Sam Smith, Dept Num:14
+
+
+What action would you like to perform?
+sorted by project numbers
+What action would you like to perform?
+
+
+Project Title:		Runners Project
+Project Number:		21
+Project Location:	Phoenix
+Project Manager:	Sam Smith, Dept Num:14
+
+
+Project Title:		Dance Project
+Project Number:		23
+Project Location:	Tucson
+Project Manager:	Mary Walker, Dept Num:11
+
+
+What action would you like to perform?

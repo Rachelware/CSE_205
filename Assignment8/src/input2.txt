@@ -1,0 +1,51 @@
+6
+A
+Farming Project
+7
+Phoenix
+Bob
+Farmer
+8
+A
+Helping Children Project
+11
+Phoenix
+Mary Lou
+Fulton
+201
+A
+Commercial Construction Project
+15
+Flagstaff
+Nancy
+O'Hare
+7
+A
+Mountain Project
+16
+Flagstaff
+Martin
+Van Buren
+25
+A
+Farming Project2
+6
+Phoenix
+Tom
+Farmer
+9
+L
+P
+L
+O
+L
+R
+5
+R
+7
+L
+P
+L
+O
+L
+Q

@@ -1,0 +1,180 @@
+Choice		Action
+------		------
+A		Add Project
+C		Create ProjectManagement
+D		Search by Project Number
+E		Search by Manager
+L		List Projects
+O		Sort by Project Number
+P		Sort by Manager
+Q		Quit
+R		Remove by Project Number
+T		Close ProjectManagement
+U		Write Text to File
+V		Read Text from File
+W		Serialize ProjectManagement to File
+X		Deserialize ProjectManagement from File
+?		Display Help
+
+Please enter a maximum number of projects
+What action would you like to perform?
+Please enter a project to add:
+Please enter its title to add:
+Please enter its project number to add:
+Please enter its project location to add:
+Please enter its manager's first name to add:
+Please enter its manager's last name to add:
+Please enter its manager's department number to add:
+project added
+What action would you like to perform?
+Please enter a project to add:
+Please enter its title to add:
+Please enter its project number to add:
+Please enter its project location to add:
+Please enter its manager's first name to add:
+Please enter its manager's last name to add:
+Please enter its manager's department number to add:
+project added
+What action would you like to perform?
+Please enter a project to add:
+Please enter its title to add:
+Please enter its project number to add:
+Please enter its project location to add:
+Please enter its manager's first name to add:
+Please enter its manager's last name to add:
+Please enter its manager's department number to add:
+project added
+What action would you like to perform?
+
+
+Project Title:		Grand Road Improvement Project
+Project Number:		3
+Project Location:	Tucson
+Project Manager:	Karl Thompson, Dept Num:9
+
+
+Project Title:		Helping Children Project
+Project Number:		11
+Project Location:	Phoenix
+Project Manager:	Kate Middleton, Dept Num:15
+
+
+Project Title:		Farming Project
+Project Number:		7
+Project Location:	Phoenix
+Project Manager:	Bob Farmer, Dept Num:8
+
+
+What action would you like to perform?
+Please enter project number to search:
+project number 9 not found
+What action would you like to perform?
+Please enter project number to search:
+project number 16 not found
+What action would you like to perform?
+Please enter project number to search:
+project number 7 found
+What action would you like to perform?
+Please enter the first name of a manager to search:
+Please enter the last name of a manager to search:
+Please enter the department number of a manager to search:
+project manager Middleton,Kate of the department 15 found
+What action would you like to perform?
+Please enter the first name of a manager to search:
+Please enter the last name of a manager to search:
+Please enter the department number of a manager to search:
+project manager Farmer,Tom of the department 8 not found
+What action would you like to perform?
+
+
+Project Title:		Grand Road Improvement Project
+Project Number:		3
+Project Location:	Tucson
+Project Manager:	Karl Thompson, Dept Num:9
+
+
+Project Title:		Helping Children Project
+Project Number:		11
+Project Location:	Phoenix
+Project Manager:	Kate Middleton, Dept Num:15
+
+
+Project Title:		Farming Project
+Project Number:		7
+Project Location:	Phoenix
+Project Manager:	Bob Farmer, Dept Num:8
+
+
+What action would you like to perform?
+Please enter project number to remove:
+project number 15 not found
+What action would you like to perform?
+
+
+Project Title:		Grand Road Improvement Project
+Project Number:		3
+Project Location:	Tucson
+Project Manager:	Karl Thompson, Dept Num:9
+
+
+Project Title:		Helping Children Project
+Project Number:		11
+Project Location:	Phoenix
+Project Manager:	Kate Middleton, Dept Num:15
+
+
+Project Title:		Farming Project
+Project Number:		7
+Project Location:	Phoenix
+Project Manager:	Bob Farmer, Dept Num:8
+
+
+What action would you like to perform?
+Please enter project number to remove:
+project number 11 removed
+What action would you like to perform?
+
+
+Project Title:		Grand Road Improvement Project
+Project Number:		3
+Project Location:	Tucson
+Project Manager:	Karl Thompson, Dept Num:9
+
+
+Project Title:		Farming Project
+Project Number:		7
+Project Location:	Phoenix
+Project Manager:	Bob Farmer, Dept Num:8
+
+
+What action would you like to perform?
+Please enter a file name to write:
+project1.dat was written
+What action would you like to perform?
+project management system closed
+What action would you like to perform?
+
+no project
+
+What action would you like to perform?
+Please enter a file name to read:
+task1.dat was not found
+What action would you like to perform?
+Please enter a file name to read:
+project1.dat was read
+What action would you like to perform?
+
+
+Project Title:		Grand Road Improvement Project
+Project Number:		3
+Project Location:	Tucson
+Project Manager:	Karl Thompson, Dept Num:9
+
+
+Project Title:		Farming Project
+Project Number:		7
+Project Location:	Phoenix
+Project Manager:	Bob Farmer, Dept Num:8
+
+
+What action would you like to perform?

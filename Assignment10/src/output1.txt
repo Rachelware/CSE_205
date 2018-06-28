@@ -1,0 +1,53 @@
+Choice		Action
+------		------
+A		Add String
+C		Count Its Size
+L		List Strings
+P		Remove Elements At Odd Indices
+Q		Quit
+R		Remove Additional Occurrences
+S		Search By Index
+T		Search And Increase
+?		Display Help
+
+What action would you like to perform?
+Please enter a string to add:
+What action would you like to perform?
+{ Grape }
+What action would you like to perform?
+Please enter a string to add:
+What action would you like to perform?
+{ Grape Melon }
+What action would you like to perform?
+Please enter a string to add:
+What action would you like to perform?
+{ Apple Grape Melon }
+What action would you like to perform?
+The size of the linked list is 3
+What action would you like to perform?
+Please enter a string to add:
+What action would you like to perform?
+{ Apple Grape Melon Peach }
+What action would you like to perform?
+Please enter a string to add:
+What action would you like to perform?
+{ Apple Banana Grape Melon Peach }
+What action would you like to perform?
+The size of the linked list is 5
+What action would you like to perform?
+Please enter an index to search:
+The string at the index 1 is Banana
+What action would you like to perform?
+Please enter an index to search:
+The string at the index 0 is Apple
+What action would you like to perform?
+Please enter an index to search:
+The index is out of bounds
+There is no string at the index
+What action would you like to perform?
+Please enter an index to search:
+The index is out of bounds
+There is no string at the index
+What action would you like to perform?
+{ Apple Banana Grape Melon Peach }
+What action would you like to perform?

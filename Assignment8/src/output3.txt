@@ -1,0 +1,383 @@
+Choice		Action
+------		------
+A		Add Project
+C		Create ProjectManagement
+D		Search by Project Number
+E		Search by Manager
+L		List Projects
+O		Sort by Project Number
+P		Sort by Manager
+Q		Quit
+R		Remove by Project Number
+T		Close ProjectManagement
+U		Write Text to File
+V		Read Text from File
+W		Serialize ProjectManagement to File
+X		Deserialize ProjectManagement from File
+?		Display Help
+
+Please enter a maximum number of projects
+What action would you like to perform?
+Please enter a project to add:
+Please enter its title to add:
+Please enter its project number to add:
+Please enter its project location to add:
+Please enter its manager's first name to add:
+Please enter its manager's last name to add:
+Please enter its manager's department number to add:
+project added
+What action would you like to perform?
+Please enter a project to add:
+Please enter its title to add:
+Please enter its project number to add:
+Please enter its project location to add:
+Please enter its manager's first name to add:
+Please enter its manager's last name to add:
+Please enter its manager's department number to add:
+project added
+What action would you like to perform?
+Please enter a project to add:
+Please enter its title to add:
+Please enter its project number to add:
+Please enter its project location to add:
+Please enter its manager's first name to add:
+Please enter its manager's last name to add:
+Please enter its manager's department number to add:
+project not added
+What action would you like to perform?
+Please enter a project to add:
+Please enter its title to add:
+Please enter its project number to add:
+Please enter its project location to add:
+Please enter its manager's first name to add:
+Please enter its manager's last name to add:
+Please enter its manager's department number to add:
+project added
+What action would you like to perform?
+Please enter a project to add:
+Please enter its title to add:
+Please enter its project number to add:
+Please enter its project location to add:
+Please enter its manager's first name to add:
+Please enter its manager's last name to add:
+Please enter its manager's department number to add:
+project added
+What action would you like to perform?
+
+
+Project Title:		Runners Project
+Project Number:		21
+Project Location:	Phoenix
+Project Manager:	Sam Smith, Dept Num:15
+
+
+Project Title:		Dance Project
+Project Number:		23
+Project Location:	Tucson
+Project Manager:	Mary Walker, Dept Num:11
+
+
+Project Title:		Mountain Project
+Project Number:		16
+Project Location:	Flagstaff
+Project Manager:	Martin Van Buren, Dept Num:25
+
+
+Project Title:		Dance Project2
+Project Number:		24
+Project Location:	Tucson
+Project Manager:	Martha Walker, Dept Num:11
+
+
+What action would you like to perform?
+Please enter project number to search:
+project number 25 not found
+What action would you like to perform?
+Please enter project number to search:
+project number 23 found
+What action would you like to perform?
+Please enter the first name of a manager to search:
+Please enter the last name of a manager to search:
+Please enter the department number of a manager to search:
+project manager Van Buren,Martin of the department 6 not found
+What action would you like to perform?
+
+
+Project Title:		Runners Project
+Project Number:		21
+Project Location:	Phoenix
+Project Manager:	Sam Smith, Dept Num:15
+
+
+Project Title:		Dance Project
+Project Number:		23
+Project Location:	Tucson
+Project Manager:	Mary Walker, Dept Num:11
+
+
+Project Title:		Mountain Project
+Project Number:		16
+Project Location:	Flagstaff
+Project Manager:	Martin Van Buren, Dept Num:25
+
+
+Project Title:		Dance Project2
+Project Number:		24
+Project Location:	Tucson
+Project Manager:	Martha Walker, Dept Num:11
+
+
+What action would you like to perform?
+sorted by project numbers
+What action would you like to perform?
+
+
+Project Title:		Mountain Project
+Project Number:		16
+Project Location:	Flagstaff
+Project Manager:	Martin Van Buren, Dept Num:25
+
+
+Project Title:		Runners Project
+Project Number:		21
+Project Location:	Phoenix
+Project Manager:	Sam Smith, Dept Num:15
+
+
+Project Title:		Dance Project
+Project Number:		23
+Project Location:	Tucson
+Project Manager:	Mary Walker, Dept Num:11
+
+
+Project Title:		Dance Project2
+Project Number:		24
+Project Location:	Tucson
+Project Manager:	Martha Walker, Dept Num:11
+
+
+What action would you like to perform?
+sorted by managers
+What action would you like to perform?
+
+
+Project Title:		Dance Project2
+Project Number:		24
+Project Location:	Tucson
+Project Manager:	Martha Walker, Dept Num:11
+
+
+Project Title:		Dance Project
+Project Number:		23
+Project Location:	Tucson
+Project Manager:	Mary Walker, Dept Num:11
+
+
+Project Title:		Runners Project
+Project Number:		21
+Project Location:	Phoenix
+Project Manager:	Sam Smith, Dept Num:15
+
+
+Project Title:		Mountain Project
+Project Number:		16
+Project Location:	Flagstaff
+Project Manager:	Martin Van Buren, Dept Num:25
+
+
+What action would you like to perform?
+Please enter a project to add:
+Please enter its title to add:
+Please enter its project number to add:
+Please enter its project location to add:
+Please enter its manager's first name to add:
+Please enter its manager's last name to add:
+Please enter its manager's department number to add:
+project added
+What action would you like to perform?
+
+
+Project Title:		Dance Project2
+Project Number:		24
+Project Location:	Tucson
+Project Manager:	Martha Walker, Dept Num:11
+
+
+Project Title:		Dance Project
+Project Number:		23
+Project Location:	Tucson
+Project Manager:	Mary Walker, Dept Num:11
+
+
+Project Title:		Runners Project
+Project Number:		21
+Project Location:	Phoenix
+Project Manager:	Sam Smith, Dept Num:15
+
+
+Project Title:		Mountain Project
+Project Number:		16
+Project Location:	Flagstaff
+Project Manager:	Martin Van Buren, Dept Num:25
+
+
+Project Title:		Commercial Construction Project
+Project Number:		15
+Project Location:	Flagstaff
+Project Manager:	Nancy O'Hare, Dept Num:6
+
+
+What action would you like to perform?
+Please enter project number to search:
+project number 22 not found
+What action would you like to perform?
+
+
+Project Title:		Dance Project2
+Project Number:		24
+Project Location:	Tucson
+Project Manager:	Martha Walker, Dept Num:11
+
+
+Project Title:		Dance Project
+Project Number:		23
+Project Location:	Tucson
+Project Manager:	Mary Walker, Dept Num:11
+
+
+Project Title:		Runners Project
+Project Number:		21
+Project Location:	Phoenix
+Project Manager:	Sam Smith, Dept Num:15
+
+
+Project Title:		Mountain Project
+Project Number:		16
+Project Location:	Flagstaff
+Project Manager:	Martin Van Buren, Dept Num:25
+
+
+Project Title:		Commercial Construction Project
+Project Number:		15
+Project Location:	Flagstaff
+Project Manager:	Nancy O'Hare, Dept Num:6
+
+
+What action would you like to perform?
+Please enter project number to search:
+project number 21 found
+What action would you like to perform?
+
+
+Project Title:		Dance Project2
+Project Number:		24
+Project Location:	Tucson
+Project Manager:	Martha Walker, Dept Num:11
+
+
+Project Title:		Dance Project
+Project Number:		23
+Project Location:	Tucson
+Project Manager:	Mary Walker, Dept Num:11
+
+
+Project Title:		Runners Project
+Project Number:		21
+Project Location:	Phoenix
+Project Manager:	Sam Smith, Dept Num:15
+
+
+Project Title:		Mountain Project
+Project Number:		16
+Project Location:	Flagstaff
+Project Manager:	Martin Van Buren, Dept Num:25
+
+
+Project Title:		Commercial Construction Project
+Project Number:		15
+Project Location:	Flagstaff
+Project Manager:	Nancy O'Hare, Dept Num:6
+
+
+What action would you like to perform?
+Please enter project number to search:
+project number 15 found
+What action would you like to perform?
+
+
+Project Title:		Dance Project2
+Project Number:		24
+Project Location:	Tucson
+Project Manager:	Martha Walker, Dept Num:11
+
+
+Project Title:		Dance Project
+Project Number:		23
+Project Location:	Tucson
+Project Manager:	Mary Walker, Dept Num:11
+
+
+Project Title:		Runners Project
+Project Number:		21
+Project Location:	Phoenix
+Project Manager:	Sam Smith, Dept Num:15
+
+
+Project Title:		Mountain Project
+Project Number:		16
+Project Location:	Flagstaff
+Project Manager:	Martin Van Buren, Dept Num:25
+
+
+Project Title:		Commercial Construction Project
+Project Number:		15
+Project Location:	Flagstaff
+Project Manager:	Nancy O'Hare, Dept Num:6
+
+
+What action would you like to perform?
+Please enter a file name to write:
+Please enter a string to write in the file:
+sample1.txt was written
+What action would you like to perform?
+Please enter a file name to read:
+sample3.txt was not found
+What action would you like to perform?
+Please enter a file name to read:
+sample1.txt was read
+The first line of the file is:
+Coding and Coding
+What action would you like to perform?
+
+
+Project Title:		Dance Project2
+Project Number:		24
+Project Location:	Tucson
+Project Manager:	Martha Walker, Dept Num:11
+
+
+Project Title:		Dance Project
+Project Number:		23
+Project Location:	Tucson
+Project Manager:	Mary Walker, Dept Num:11
+
+
+Project Title:		Runners Project
+Project Number:		21
+Project Location:	Phoenix
+Project Manager:	Sam Smith, Dept Num:15
+
+
+Project Title:		Mountain Project
+Project Number:		16
+Project Location:	Flagstaff
+Project Manager:	Martin Van Buren, Dept Num:25
+
+
+Project Title:		Commercial Construction Project
+Project Number:		15
+Project Location:	Flagstaff
+Project Manager:	Nancy O'Hare, Dept Num:6
+
+
+What action would you like to perform?

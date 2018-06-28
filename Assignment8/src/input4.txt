@@ -1,0 +1,53 @@
+5
+A
+Commercial Construction Project
+15
+Flagstaff
+Nancy
+O'Hare
+5
+A
+Helping Children Project
+11
+Phoenix
+Mary Lou
+Fulton
+201
+A
+Mountain Project
+16
+Flagstaff
+Martin
+Van Buren
+25
+L
+C
+2
+L
+A
+Dance Project
+23
+Tucson
+Mary
+Walker
+11
+A
+Runners Project
+21
+Phoenix
+Sam
+Smith
+14
+A
+Farming Project
+10
+Phoenix
+Tom
+Farmer
+9
+L
+P
+L
+O
+L
+Q

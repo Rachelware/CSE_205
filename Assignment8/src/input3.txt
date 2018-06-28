@@ -1,0 +1,76 @@
+10
+A
+Runners Project
+21
+Phoenix
+Sam
+Smith
+15
+A
+Dance Project
+23
+Tucson
+Mary
+Walker
+11
+A
+Dance Project2
+23
+Phoenix
+Mary
+Walker
+11
+A
+Mountain Project
+16
+Flagstaff
+Martin
+Van Buren
+25
+A
+Dance Project2
+24
+Tucson
+Martha
+Walker
+11
+L
+D
+25
+D
+23
+E
+Martin
+Van Buren
+6
+L
+O
+L
+P
+L
+A
+Commercial Construction Project
+15
+Flagstaff
+Nancy
+O'Hare
+6
+L
+D
+22
+L
+D
+21
+L
+D
+15
+L
+U
+sample1.txt
+Coding and Coding
+V
+sample3.txt
+V
+sample1.txt
+L
+Q
